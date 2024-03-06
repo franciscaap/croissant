@@ -1,0 +1,35 @@
+body {
+  margin: 60px auto;
+  background-color: #c792b273;
+}
+h1 {
+  text-align: center;
+  font-size: 42px;
+}
+.about-croissant {
+  text-align: center;
+  font-size: 18px;
+  padding: 10px 20px;
+}
+.croissant-photo {
+  display: block;
+  margin: 0 auto;
+}
+
+.email-info {
+  text-align: center;
+  font-size: 18px;
+}
+.email-link:hover {
+  color: #8a2be2;
+}
+footer {
+  text-align: center;
+  margin-top: 50px;
+}
+
+footer a {
+  margin: 0 10px;
+  color: #8a2be2;
+  font-size: 18px;
+}
